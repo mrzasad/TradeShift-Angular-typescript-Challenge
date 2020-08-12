@@ -1,0 +1,51 @@
+/* .box1 {
+  border: solid 1px #006699;
+  padding: 20px;
+  background: #f3f3f3;
+  border-radius: 5px;
+} */
+input.textfield {
+  width: 250px;
+  height: 36px;
+  margin-right: 20px;
+  font-size: 1.4em;
+  vertical-align: top;
+  display: inline;
+  border-color: orange;
+}
+
+.form-control:focus {
+  border-color: orange;
+  box-shadow: 0 0 0 0.2rem rgba(235, 174, 7, 0.25);
+}
+button {
+  border-color: orange;
+  color: orange;
+  background-color: Transparent;
+  background-repeat: no-repeat;
+  /* border: none; */
+  cursor: pointer;
+  overflow: hidden;
+  outline: none;
+}
+.card-align {
+  width: 33rem;
+  margin-top: 20px;
+}
+
+/* .todos input.checkbox {
+  width: 20px;
+  height: 20px;
+} */
+
+/* .todos .checked {
+  text-decoration: line-through;
+} */
+
+/* .todos button {
+  height: 36px;
+  font-size: 1.1em;
+  vertical-align: top;
+  border: solid 1px #999;
+  border-radius: 2px;
+} */
